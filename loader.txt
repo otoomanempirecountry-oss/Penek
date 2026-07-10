@@ -59,7 +59,7 @@ end
 local GameList = {
 	["9584852943"]  = { id = "61e0f394c005902cda5643069ac59226", keyless = false },  -- +1 Speed Keyboard Escape
 	["7326934954"] = { id = "00e140acb477c5ecde501c1d448df6f9", keyless = true },  -- 99 Nights in the Forest
-	["10148749921"]  = { id = "0d120852a6e2eb65c691e5ce2c628429", keyless = false },  -- Animal Hospital
+	["10148749921"]  = { id = "0d120852a6e2eb65c691e5ce2c628429", keyless = true },  -- Animal Hospital
 	["4658598196"] = { id = "d383a1d5c0a779bbfd0a2b74437923d5", keyless = true },  -- Attack on Titan Revolution
 	["5130394318"] = { id = "3e7a75a970118d0f0cf629369524dc7d", keyless = false }, -- Bizarre Lineage
 	["994732206"]  = { id = "e2718ddebf562c5c4080dfce26b09398", keyless = false }, -- Blox Fruits
